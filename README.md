@@ -14,7 +14,9 @@ List of resources used for certifications.
 - John Savill - SC-900 Microsoft Security, Compliance, and Identity Fundamentals Study Cram (https://youtu.be/Bz-8jM3jg-8)
 - Microsoft Security Virtual Training Day: Security, Compliance, and Identity Fundamentals
 - Microsoft Learn (https://learn.microsoft.com/en-us/users/sachazufferey/collections/3n0yfjr6e7em7p)
+- Microsoft Practice Assessment for Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (https://learn.microsoft.com/en-us//certifications/exams/sc-900//practice/assessment?assessmentId=11&assessment-type=practice)
 - Udemy - SC-900: Microsoft Security Fundamentals Exam Prep - NOV 2022 (https://www.udemy.com/course/sc900-azure/)
+- OneEqualsOne Learning Materials (https://github.com/OneEqualsOne/Azure-Learning-Materials/tree/main/SC-900)
 
 ### SC-200 (in progress)
 - Microsoft Ignite: Protect Everything Challenge
