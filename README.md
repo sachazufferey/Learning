@@ -3,6 +3,7 @@
 List of resources used for certifications.
 
 ## Microsoft
+Microsoft Certifications Poster : https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 
 ### AZ-900 (done)
 - John Savill - AZ-900 Azure Fundamentals Certification Course (https://youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
@@ -23,3 +24,5 @@ List of resources used for certifications.
 - Microsoft Security Virtual Training Days: Modernize Security and Defend Against Threats
 - Microsoft Learn (https://learn.microsoft.com/en-us/users/sachazufferey/collections/pr1ob6m70xygwd)
 - Whizlabs - Microsoft Security Operations Analyst (SC-200) (https://www.whizlabs.com/learn/course/microsoft-security-operations-analyst-sc-200/1183)
+
+### SC-100 (why not ?)
