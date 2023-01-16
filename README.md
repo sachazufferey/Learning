@@ -10,7 +10,7 @@ List of resources used for certifications.
 - Microsoft Learn (https://learn.microsoft.com/en-us/users/sachazufferey/collections/r4d1tdm3koje3o)
 - Udemy - AZ-900 : Microsoft Azure Fundamentals Practice Tests 2023 (https://www.udemy.com/course/microsoft-azure-az-900-practice-tests-latest-2020/)
 
-### SC-900 (in progress)
+### SC-900 (done)
 - John Savill - SC-900 Microsoft Security, Compliance, and Identity Fundamentals Study Cram (https://youtu.be/Bz-8jM3jg-8)
 - Microsoft Security Virtual Training Days: Security, Compliance, and Identity Fundamentals
 - Microsoft Learn (https://learn.microsoft.com/en-us/users/sachazufferey/collections/3n0yfjr6e7em7p)
@@ -22,3 +22,4 @@ List of resources used for certifications.
 - Microsoft Ignite: Protect Everything Challenge
 - Microsoft Security Virtual Training Days: Modernize Security and Defend Against Threats
 - Microsoft Learn (https://learn.microsoft.com/en-us/users/sachazufferey/collections/pr1ob6m70xygwd)
+- Whizlabs - Microsoft Security Operations Analyst (SC-200) (https://www.whizlabs.com/learn/course/microsoft-security-operations-analyst-sc-200/1183)
