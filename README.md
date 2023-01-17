@@ -23,6 +23,7 @@ Microsoft Certifications Poster : https://query.prod.cms.rt.microsoft.com/cms/ap
 - Microsoft Ignite: Protect Everything Challenge
 - Microsoft Security Virtual Training Days: Modernize Security and Defend Against Threats
 - Microsoft Learn (https://learn.microsoft.com/en-us/users/sachazufferey/collections/pr1ob6m70xygwd)
+- Udemy - SC-200: Microsoft Security Operations Analyst (https://www.udemy.com/course/sc-200-microsoft-security-operations-analyst-exam-prep/)
 - Become a Microsoft Sentinel Ninja: The complete level 400 training (https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
 - Become a Microsoft Defender Threat Intelligence Ninja: The complete level 400 training (https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965)
 - Become a Microsoft 365 Defender Ninja (https://techcommunity.microsoft.com/t5/microsoft-365-defender-blog/become-a-microsoft-365-defender-ninja/ba-p/1789376)
