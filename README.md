@@ -31,5 +31,4 @@ Microsoft Certifications Poster : https://query.prod.cms.rt.microsoft.com/cms/ap
 - Become a Microsoft Sentinel Automation Ninja (https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377)
 - SC-200 MS Labs (https://microsoftlearning.github.io/SC-200T00A-Microsoft-Security-Operations-Analyst/)
 - Whizlabs - Microsoft Security Operations Analyst (SC-200) (https://www.whizlabs.com/learn/course/microsoft-security-operations-analyst-sc-200/1183)
-
-### SC-100 (why not ?)
+- Microsoft LA Demo (https://aka.ms/lademo)
