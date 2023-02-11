@@ -26,6 +26,8 @@ Microsoft Certifications Poster : https://query.prod.cms.rt.microsoft.com/cms/ap
 - Udemy - SC-200: Microsoft Security Operations Analyst (https://www.udemy.com/course/sc-200-microsoft-security-operations-analyst-exam-prep/)
 - SC-200 MS Labs (https://microsoftlearning.github.io/SC-200T00A-Microsoft-Security-Operations-Analyst/)
 - Whizlabs - Microsoft Security Operations Analyst (SC-200) (https://www.whizlabs.com/learn/course/microsoft-security-operations-analyst-sc-200/1183)
+- To practice and discover : Azure Subscription (With a 200$ credit for 30 days and 1 year of free services)
+- To practice and discover : Office 365 E5 Demo
 
 ### Bonus
 - Microsoft LA Demo (https://aka.ms/lademo)
