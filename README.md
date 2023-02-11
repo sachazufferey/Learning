@@ -30,6 +30,7 @@ Microsoft Certifications Poster : https://query.prod.cms.rt.microsoft.com/cms/ap
 - To practice and discover : Office 365 E5 Demo
 
 ### Bonus
+- Microsoft Enterprise Skills Initiative (https://esi.microsoft.com/) 
 - Microsoft LA Demo (https://aka.ms/lademo)
 - Microsoft Cloud Games (https://learn.microsoft.com/en-us/training/cloud-games)
 - Kusto Detective Agency (https://detective.kusto.io/)
