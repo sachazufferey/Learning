@@ -3,7 +3,7 @@
 List of resources used for certifications.
 
 ## Microsoft
-Microsoft Certifications Poster : https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+Microsoft Certifications Poster (https://aka.ms/TrainCertPoster)
 
 ### AZ-900
 - John Savill - AZ-900 Azure Fundamentals Certification Course (https://youtube.com/playlist?list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
