@@ -28,8 +28,6 @@ Microsoft Certifications Poster : https://query.prod.cms.rt.microsoft.com/cms/ap
 - Whizlabs - Microsoft Security Operations Analyst (SC-200) (https://www.whizlabs.com/learn/course/microsoft-security-operations-analyst-sc-200/1183)
 - To practice and discover : Azure Subscription (With a 200$ credit for 30 days and 1 year of free services)
 - To practice and discover : Office 365 E5 Demo
-
-### Bonus
 - Microsoft Enterprise Skills Initiative (https://esi.microsoft.com/) 
 - Microsoft LA Demo (https://aka.ms/lademo)
 - Microsoft Cloud Games (https://learn.microsoft.com/en-us/training/cloud-games)
