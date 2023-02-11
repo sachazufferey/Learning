@@ -31,3 +31,4 @@ Microsoft Certifications Poster : https://query.prod.cms.rt.microsoft.com/cms/ap
 - Microsoft LA Demo (https://aka.ms/lademo)
 - Microsoft Cloud Games (https://learn.microsoft.com/en-us/training/cloud-games)
 - Kusto Detective Agency (https://detective.kusto.io/)
+- KQL Cheat Sheet by Marcus Bakker (https://raw.githubusercontent.com/marcusbakker/KQL/master/kql_cheat_sheet.pdf)
